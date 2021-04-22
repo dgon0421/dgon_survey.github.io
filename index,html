@@ -12,7 +12,7 @@
     </script>
     <script>
         $(".appsMaterialWizButtonPaperbuttonContent").click(function() {
-            open('http://naver.com', '', '')
+            open('http://pf.kakao.com/_xnlExfK/chat', '', '')
             form.submit();
         })
     </script>
